@@ -1,0 +1,35 @@
+{
+  "name": "friends-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "axios": "^1.5.1",
+    "date-fns": "^2.30.0",
+    "framer-motion": "^10.16.4",
+    "next": "13.5.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.47.0",
+    "react-icons": "^4.11.0",
+    "react-query": "^3.39.3",
+    "js-cookie": "^3.0.5",
+    "@types/js-cookie": "^3.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "@types/react": "^18.2.27",
+    "@types/react-dom": "^18.2.12",
+    "eslint": "^8.51.0",
+    "eslint-config-next": "13.5.4",
+    "typescript": "^5.2.2"
+  }
+}
